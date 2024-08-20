@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Daniel steven Naranjo Montaño
+//codigo en clase sobre alcancia
 public class m {
     public static void main(String[] args) {
         int monedas20 = 0;
